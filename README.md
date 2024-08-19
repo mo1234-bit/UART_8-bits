@@ -1,9 +1,12 @@
 # 8-bit UART (Universal Asynchronous Receiver/Transmitter)
-<img width="519" alt="2" src="https://github.com/user-attachments/assets/0788cdfa-4efb-4b06-921f-4cd0e10839bc">
+
 
 ## Overview
-<img width="519" alt="2" src="https://github.com/user-attachments/assets/0788cdfa-4efb-4b06-921f-4cd0e10839bc">
+
 This project implements a full 8-bit Universal Asynchronous Receiver/Transmitter (UART) in Verilog. UART is a commonly used protocol for serial communication, where data is transmitted and received one bit at a time.
+
+<img width="519" alt="2" src="https://github.com/user-attachments/assets/0788cdfa-4efb-4b06-921f-4cd0e10839bc">
+
 
 The project includes:
 - An 8-bit UART transmitter module for sending serial data.
